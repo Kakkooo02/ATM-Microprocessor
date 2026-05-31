@@ -1,0 +1,18 @@
+# Compiled output
+*.o
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.vscode/
+.idea/
+.settings/
+.project
+.cproject
+
+# OS files
+.DS_Store
+Thumbs.db
