@@ -25,11 +25,10 @@ This project was developed to practice microcontroller programming, hardware inp
 | Area                   | Technology                    |
 | ---------------------- | ----------------------------- |
 | Language               | C                             |
-| System type            | Embedded system               |
 | Communication          | UART                          |
 | Input                  | GPIO, keypad, hardware switch |
 | Microcontroller header | MKL25Z4                       |
-| Development style      | Bare-metal programming        |
+
 
 ## System Flow
 
@@ -115,13 +114,9 @@ Through this project, I practiced:
 ## Future Improvements
 
 * Hide PIN digits instead of displaying them through UART
-* Add keypad debounce handling
 * Store PIN and balance more securely
 * Add an LCD display for better user interaction
-* Split the code into separate header and source files
-* Add clearer comments for pin mapping
-* Improve input validation for withdrawal amounts
 
 ## Author
 
-Created by [Kakkooo02](https://github.com/Kakkooo02)
+Created by Kakkooo02
